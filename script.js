@@ -61,7 +61,7 @@ let d = 5 + (c = a + b);
 
  let primer1 = 1 + "1"; //11
  let primer2 = "1" + 1; //11
- let primer3 = 1 + "1"; //11
+ let primer3 = 1 + 1 + "1"; //111
  let primer4 = 1 + "1"; //11
  let primer5 = 1 + "1"; //11
 
