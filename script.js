@@ -53,3 +53,16 @@ example1 *= 2;
 let example2 = -1;
 let example3 = +1;
 
+
+let a = 10;
+let b = 5;
+let c;
+let d = 5 + (c = a + b);
+
+ let primer1 = 1 + "1"; //11
+ let primer2 = "1" + 1; //11
+ let primer3 = 1 + "1"; //11
+ let primer4 = 1 + "1"; //11
+ let primer5 = 1 + "1"; //11
+
+
