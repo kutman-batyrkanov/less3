@@ -65,4 +65,6 @@ let d = 5 + (c = a + b);
  let primer4 = 1 + "1"; //11
  let primer5 = 1 + "1"; //11
 
+ let primer9 = +"1"
+
 
