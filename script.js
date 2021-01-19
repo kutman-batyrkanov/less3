@@ -15,6 +15,10 @@
 // let number1 = true;
 // let number2 = false;
 
+let boolean = true;
+let boolean = false;
+
+
 
 
 // let person = {
@@ -61,10 +65,21 @@ let d = 5 + (c = a + b);
 
  let primer1 = 1 + "1"; //11
  let primer2 = "1" + 1; //11
- let primer3 = 1 + 1 + "1"; //111
- let primer4 = 1 + "1"; //11
+ let primer3 = 1 + 1 + "1"; //21
+ let primer4 = "1" + 1 + 1; //111
  let primer5 = 1 + "1"; //11
 
  let primer9 = +"1"
+ let primer10 = Number("123123");
 
+ let primer12 = Math(random);
+
+ let aa = prompt("How many dollars do you have?" , 0);
+ let bb = prompt("What is dollar exchange rate?" , 83);
+ let cc = parseFloat(aa) * parseFloat(bb);
+
+ alert("You have" + cc + "soms!");
+
+
+ let firstName = "jkdlsa0";
 
